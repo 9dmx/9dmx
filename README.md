@@ -1,7 +1,8 @@
 <h2 align="center">Welcome flashpoint <img src="https://www.svgrepo.com/show/354273/redhat-icon.svg" height="25px"></h2>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 300%;">
-  <pre style="margin-right: 20px; width: 50%; overflow: auto; white-space: pre-wrap;">
+
+
+```nim
 ┌──(root@flash)-[~/]
 └─$ cat flash.sh
 
@@ -15,8 +16,9 @@ initflash() {
 
  ┌──(root@flash)-[~/]
  └─$
+ ```
   </pre>
-  <img src="https://i.ibb.co/5WKRtQY/7763e44ff3f8b22aa9d79107832a1cca.gif" style="max-width: 300px; height: 300px;">
+  <img src="https://i.ibb.co/d606vyM/l.gif" style="width: 2000px; height: 200px;">
 </div>
 
 <p align="center">
