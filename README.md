@@ -1,4 +1,4 @@
-<h2 align="center">Welcome Leet's <img src="https://www.svgrepo.com/show/354273/redhat-icon.svg" height="25px"></h2>
+<h2 align="center">Welcome flashpoint <img src="https://www.svgrepo.com/show/354273/redhat-icon.svg" height="25px"></h2>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 300%;">
   <pre style="margin-right: 20px; width: 50%; overflow: auto; white-space: pre-wrap;">
