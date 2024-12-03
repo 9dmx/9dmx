@@ -18,7 +18,7 @@ initflash() {
  └─$
  ```
   </pre>
-  <img src="https://i.ibb.co/d606vyM/l.gif" style="width: 2000px; height: 200px;">
+  <img src="https://i.ibb.co/xqfv6GZ/3611b30d49752a0ed290a1458d5bbb03.gif" style="width: 200px; height: 200px;">
 </div>
 
 <p align="center">
