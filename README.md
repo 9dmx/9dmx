@@ -17,9 +17,6 @@ initflash() {
  ┌──(root@flash)-[~/]
  └─$
  ```
-  </pre>
-  <img src="https://i.ibb.co/xqfv6GZ/3611b30d49752a0ed290a1458d5bbb03.gif" style="width: 200px; height: 200px;">
-</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,3 +24,7 @@ initflash() {
   </a>
 </p>
 <h2 align="center"></h2>
+<p align="center">
+  
+![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
+
