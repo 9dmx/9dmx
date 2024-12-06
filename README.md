@@ -6,7 +6,7 @@
 
 
 ```csharp
-0x731@github
+9dmx@github
 ----------------
        OS  :  Windows 10
     Shell  :  zsh 5.8
@@ -14,6 +14,6 @@
       CPU  :  i5-11500KF
       GPU  :  RTX 1650 Super
     Alias  :  cs/checksum
-Languages  :  C#, C++, PHP, Python, JavaScript
+Languages  :  Python, Bash
   Discord  :  9dmx
 
