@@ -14,6 +14,6 @@
       CPU  :  i5-11500KF
       GPU  :  RTX 1650 Super
     Alias  :  cs/checksum
-Languages  :  Python, Bash
+Languages  :  Python , Bash
   Discord  :  9dmx
 
