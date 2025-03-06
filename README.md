@@ -1,19 +1,21 @@
-```zsh
-> neofetch
-```
+<h1 align="center">Hi 👋, I'm flash</h1>
+<h3 align="center">I'm flash, a Cs beginner & developer at Bahrain Polytechnic. I love malware analysis and exploring the world of cs</h3>
 
-```<img align="left" src="https://i.pinimg.com/originals/b8/66/15/b866150a9b1a36ab2e58d87909df5bc3.gif" alt="logo.gif" width="230" height="225.6" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=9dmx&label=Profile%20views&color=0e75b6&style=flat" alt="9dmx" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9dmx" alt="9dmx" /></a> </p>
 
-```csharp
-9dmx@github
-----------------
-       OS  :  Windows 10
-    Shell  :  zsh 5.8
- Terminal  :  CMD
-      CPU  :  i5-11500KF
-      GPU  :  RTX 1650 Super
-    Alias  :  cs/checksum
-Languages  :  Python , Bash
-  Discord  :  9dmx
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/9dmx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="9dmx" height="30" width="40" /></a>
+<a href="https://discord.gg/9dmx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9dmx" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=9dmx&show_icons=true&locale=en&layout=compact" alt="9dmx" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=9dmx&show_icons=true&locale=en" alt="9dmx" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=9dmx&" alt="9dmx" /></p>
