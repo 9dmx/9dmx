@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm flash</h1>
 <h3 align="center">I'm flash, a Cs beginner & developer at Bahrain Polytechnic. I love malware analysis and exploring the world of cs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=9dmx&label=Profile%20views&color=0e75b6&style=flat" alt="9dmx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9dmx" alt="9dmx" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/9dmx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="9dmx" height="30" width="40" /></a>
