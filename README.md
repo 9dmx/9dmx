@@ -52,14 +52,3 @@
 
 ---
 
-### 🚀 Top Skills:
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9dmx&layout=compact&theme=radical" alt="Top Skills" />
-</p>
-
----
-
-### 🔥 GitHub Streak:
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=9dmx&theme=black-ice" alt="GitHub Streak" />
-</p>
